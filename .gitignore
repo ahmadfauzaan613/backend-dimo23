@@ -1,0 +1,36 @@
+# Node.js
+node_modules/
+npm-debug.log
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Dependency directories
+lib-cov
+*.seed
+*.log
+*.csv
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn
+yarn-error.log
+pnp.js
+.pnp.js
+.pnp.cjs
+
+# dotenv environment variables file
+.env.local
+
+# VSCode
+.vscode/
+
+# Jest
+jest.config.js
+coverage/
